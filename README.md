@@ -1,4 +1,4 @@
-# CSE599 — SDRIS AI Testing & Quality Evaluation
+# CSE590 — SDRIS AI Testing & Quality Evaluation
 
 **Course:** CSE599 — AI & Software Test Automation  
 **Institution:** California Science and Technology University (CSTU)  
