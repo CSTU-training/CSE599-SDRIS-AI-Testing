@@ -1,15 +1,16 @@
 # CSE590 — SDRIS AI Testing & Quality Evaluation
 
-**Course:** CSE599 — AI & Software Test Automation  
+**Course:** CSE590 — AI & Software Test Automation  
 **Institution:** California Science and Technology University (CSTU)  
 **Instructor:** Professor Jerry Gao  
+**Members:** Chienyu Chiu, Lijun Li
 **Project Due Date:** December 20, 2026  
 **Presentation:** December 21, 2026  
 **Status:** Planning / Initial Implementation
 
 ## 1. Project Overview
 
-This project applies software testing and AI quality evaluation techniques to **SDRIS (Server Diagnostic & Reliability Intelligence System)**, a Next.js-based application designed to assist engineers with server test log analysis and failure diagnosis.
+This project applies software testing and AI quality evaluation techniques to [**SDRIS (Server Diagnostic & Reliability Intelligence System)**](https://github.com/telliex/SDRIS), a Next.js-based application designed to assist engineers with server test log analysis and failure diagnosis.
 
 SDRIS serves as the **System Under Test (SUT)**.
 
