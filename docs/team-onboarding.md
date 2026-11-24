@@ -1,5 +1,7 @@
 # Team 3 — Getting Started
 
+> **New team starting point (Nov 23):** Read [course realignment](course-realignment.md), [assignment mapping](assignment-mapping.md), [candidate 3D test design](test-modeling-design.md), and [report outline](final-report-outline.md) first. We are testing **SDRIS's GenAI capability**, not rebuilding SDRIS; approval, the professor's 3D method, and the instructor-provided test tool still need confirmation. Use synthetic data only. A mock demo must not be reported as measured SUT performance.
+
 Welcome to the CSE590 SDRIS AI Testing project. You do **not** need server hardware experience to contribute.
 
 ## What are we testing?
