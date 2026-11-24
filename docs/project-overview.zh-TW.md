@@ -1,5 +1,7 @@
 # CSE590 專案介紹（中文版）
 
+> **範圍更新（2026-11-23）：** 官方作業標示課程為 **CSE590**，截止 **2026-12-20**。提議選擇 **(c) Testing GenAI Apps**，以 SDRIS AI 分析模組作為受測系統，仍需教授確認。重點是 **3D AI Test Model／Decision Table／Complexity**、合成及擴增資料、**教授提供的 Agentic AI Test Tool** 生成測試腳本、真實測試結果、Bug Report，以及含成本／預算與覆蓋率的品質報告。QoS 為選做（最高額外 10%）。Python/pytest/API/UI 測試是輔助方法，不能替代教授工具。下方 12/21 的展示日期為團隊暫定，並非附件作業列明。詳見 [課程範圍調整](course-realignment.md) 與 [3D 建模草案](test-modeling-design.md)。
+
 ## 專案名稱
 SDRIS 伺服器故障診斷系統的 AI 測試與品質評估
 
