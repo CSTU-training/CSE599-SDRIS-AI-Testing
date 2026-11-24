@@ -1,5 +1,7 @@
 # CSE590 Project Overview (English)
 
+> **Scope update (2026-11-23):** The authoritative course assignment is **CSE590**, due **December 20, 2026**. We propose **Option (c) Testing GenAI Apps** with SDRIS's AI analysis module as SUT, subject to professor approval. Emphasize **3D AI test modeling/decision tables and complexity**, synthetic/augmented datasets, **instructor-provided agentic test tool** script generation, actual AI execution results, bug reports, and final quality reporting including cost/budget and coverage. QoS is optional (up to 10% extra). Existing Python/pytest, API and UI work is supporting infrastructure, not a substitute for the instructor tool. The December 21 presentation date below is a team target, not stated in the attached assignment. See [course realignment](course-realignment.md) and [modeling draft](test-modeling-design.md).
+
 ## Project Title
 AI-Based Test Modeling and Quality Evaluation of the SDRIS Server Diagnostic System
 
