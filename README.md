@@ -1,5 +1,7 @@
 # CSE590 — SDRIS AI Testing & Quality Evaluation
 
+> **2026-11-23 course scope update:** This repository is the **CSE590 AI testing/evaluation project**, not the full SDRIS application. We propose **Option (c) — Testing GenAI Apps** with the SDRIS AI analysis module as the **System Under Test**, pending Professor Gao's approval. The course requires **3D AI test modeling and decision tables**, test cases and synthetic/augmented datasets, **scripts generated with the instructor-provided agentic AI test tool**, actual test results, bug reports, and a quality report covering **costs/budget, complexity and coverage**. Optional QoS testing may earn **10% extra**. Due **2026-12-20**. No implementation or measurements should be inferred from these planning documents. See [course realignment](docs/course-realignment.md), [model draft](docs/test-modeling-design.md), [assignment mapping](docs/assignment-mapping.md), and [report outline](docs/final-report-outline.md). The existing CSE599 repository name is a legacy URL; course identity here is CSE590. The presentation date mentioned below is an existing team plan and is **not specified in the supplied assignment PDF**.
+
 **Course:** CSE590 — AI & Software Test Automation  
 **Institution:** California Science and Technology University (CSTU)  
 **Instructor:** Professor Jerry Gao  
